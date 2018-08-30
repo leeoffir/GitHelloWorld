@@ -6,6 +6,6 @@ Third Line from Github
 
 switching back to second 
 
-
+ssh line added without having to push with pw
 
 
